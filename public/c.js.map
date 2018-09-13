@@ -1,0 +1,1 @@
+{"version":3,"file":"c.js","sources":["../src/c.js"],"sourcesContent":["import d from './d.js';\n\nexport default () => d();"],"names":[],"mappings":";;AAEA,QAAe,MAAM,CAAC,EAAE;;;;"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"d.js","sources":["../src/d.js"],"sourcesContent":["export default () => {\n\tdocument.body.innerHTML = 'yoooo';\n}"],"names":[],"mappings":"AAAA,QAAe,MAAM;CACpB,QAAQ,CAAC,IAAI,CAAC,SAAS,GAAG,OAAO,CAAC;;;;;"}
